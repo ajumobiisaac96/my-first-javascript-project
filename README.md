@@ -1,0 +1,1 @@
+a simple project that accepts user detils and also display the details of the user using HTML, CSS and JavaScript. 
